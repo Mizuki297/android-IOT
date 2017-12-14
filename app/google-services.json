@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1007559914349",
+    "firebase_url": "https://test1-dae3c.firebaseio.com",
+    "project_id": "test1-dae3c",
+    "storage_bucket": "test1-dae3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007559914349:android:d0e866df3242166e",
+        "android_client_info": {
+          "package_name": "com.example.omen.mycar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007559914349-dg3qr6ef9na3ij8eioq7qn8977s8uhf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK82PuOyITutYi2Dum6_vKF4vLcnfRo-M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
